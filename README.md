@@ -13,10 +13,10 @@ Motorola AN-0470_Bipolar_Chopper_Transistors_And_Circuits.pdf
 http://www.bitsavers.org/components/motorola/_appNotes/AN-0470_Bipolar_Chopper_Transistors_And_Circuits.pdf  
 
 
-NPN-pair or PNP-pair, analog switch, 曾有專利.
-前人介紹的開關, 據說60/70年代NASA登月艙數據傳送電路有使用.
-CD4066 等 CMOS switch 還沒出現前就一直使用, 7400 TTL logic gate 輸入就是代表作.
-主打 兩只發射極 (E腳) 的晶體管 或者 兩只一樣的晶體管
+NPN-pair or PNP-pair, analog switch, 曾有專利.  
+前人介紹的開關, 據說60/70年代NASA登月艙數據傳送電路有使用.  
+CD4066 等 CMOS switch 還沒出現前就一直使用, 7400 TTL logic gate 輸入就是代表作.  
+主打 兩只發射極 (E腳) 的晶體管 或者 兩只一樣的晶體管.  
 
 
 ![dual_emitter_switch_off.JPG](dual_emitter_switch_off.JPG)  
