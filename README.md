@@ -9,7 +9,7 @@ Analog switch
 介紹雙射極晶體管的秘密,  
 https://pa3fwm.nl/technotes/tn37-dual-emitter-transistors.html  
 
-Motorola AN-0470_Bipolar_Chopper_Transistors_And_Circuits.pdf
+Motorola AN-0470_Bipolar_Chopper_Transistors_And_Circuits.pdf  
 http://www.bitsavers.org/components/motorola/_appNotes/AN-0470_Bipolar_Chopper_Transistors_And_Circuits.pdf  
 
 
