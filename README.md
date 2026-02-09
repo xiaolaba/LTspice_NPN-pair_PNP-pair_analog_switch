@@ -18,11 +18,15 @@ NPN-pair or PNP-pair, analog switch, 曾有專利.
 CD4066 等 CMOS switch 還沒出現前就一直使用, 7400 TTL logic gate 輸入就是代表作.  
 主打 兩只發射極 (E腳) 的晶體管 或者 兩只一樣的晶體管.  
 
-
+switch off, output = 0  
 ![dual_emitter_switch_off.JPG](dual_emitter_switch_off.JPG)  
 
+
+switch on, output = input  
 ![dual_emitter_switch_on.JPG](dual_emitter_switch_on.JPG)    
 
+
+LTspice source code  
 [Dual_emitter_NPN_PNP_switch.asc](Dual_emitter_NPN_PNP_switch.asc)  
 
 
